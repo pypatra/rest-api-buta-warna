@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["12", "0"],
+    "correct_answer": "12",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 2,
+    "image_url": "assets/isihara_plate/2.jpg",
+    "options": ["8", "3", "0"],
+    "correct_answer": "8",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 3,
+    "image_url": "assets/isihara_plate/3.jpg",
+    "options": ["5", "6", "0"],
+    "correct_answer": "6",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 4,
+    "image_url": "assets/isihara_plate/4.jpg",
+    "options": ["70", "29", "0"],
+    "correct_answer": "29",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 5,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["12", "8", "5", "6"],
+    "correct_answer": "12",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 6,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["0", "5", "2"],
+    "correct_answer": "5",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 7,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["0", "3", "5"],
+    "correct_answer": "3",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 8,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["0", "17", "15"],
+    "correct_answer": "15",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 9,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["21", "74", "0"],
+    "correct_answer": "74",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 10,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["2", "0"],
+    "correct_answer": "2",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 11,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["6", "0"],
+    "correct_answer": "6",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 12,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["12", "8", "5", "6"],
+    "correct_answer": "12",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 13,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["97", "0"],
+    "correct_answer": "97",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 14,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["0", "5"],
+    "correct_answer": "5",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 15,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["7", "0"],
+    "correct_answer": "7",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 16,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["16", "0"],
+    "correct_answer": "16",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 17,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["73", "0"],
+    "correct_answer": "73",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 18,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["26", "2", "0", "6"],
+    "correct_answer": "26",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 19,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["42", "4", "2", "0"],
+    "correct_answer": "42",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 20,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["35", "3", "5", "0"],
+    "correct_answer": "12",
+    "description": "Angka berapa yang terlihat?"
+  },
+  {
+    "id": 21,
+    "image_url": "assets/isihara_plate/1.jpg",
+    "options": ["96", "9", "0", "6"],
+    "correct_answer": "96",
+    "description": "Angka berapa yang terlihat?"
+  }
+]
