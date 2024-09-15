@@ -16,17 +16,20 @@ API test buta warna ini menggunakan metode isihara dan soal testnya berdasarkan 
 1. Clone repository:
 ```bash
   git clone https://github.com/pypatra/rest-api-test-buta-warna.git
-
+```
+```bash
   cd rest-api-test-buta-warna
 ```
 2. Buat virtual environment (opsional)
 ```bash
 python -m venv venv
-
+```
 - Windows
+```bash
 venv\Scripts\activate
-
+```
 - Mac/linux
+```bash
 source venv/bin/activate
 ```
 3. Install packages yang dibutuhkan:
